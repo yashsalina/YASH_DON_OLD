@@ -371,7 +371,7 @@ def action():
     jalan("Note : Your CP account Will Open after 7 to 10 days")
     print ''
     print ""
-    ▐█▀▄─▒▀▄░░░░░▄▀░▐█▀▀
+    ▐█▀▄ ▒▀▄░░░░░▄▀░▐█▀▀
     ▐█▀▀▄░░▒▀▄░▄▀░░░▐█▀▀
     ▐█▄▄▀░░░░▒█░░░░░▐█▄▄
     
