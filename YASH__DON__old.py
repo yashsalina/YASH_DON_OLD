@@ -369,13 +369,13 @@ def action():
     print 'Total Online/Offline : '+str(len(oks))+'/'+str(len(cpb))
     print('Cloned Accounts Has Been Saved : save/cloned.txt')
     jalan("Note : Your CP account Will Open after 7 to 10 days")
-    print ''
-    print ""
-    ▐█▀▄ ▒▀▄░░░░░▄▀░▐█▀▀
-    ▐█▀▀▄░░▒▀▄░▄▀░░░▐█▀▀
-    ▐█▄▄▀░░░░▒█░░░░░▐█▄▄
-    
-    FIR AGLI CLONING MA MILENGE💜
+    ''
+ 
+   
+
+
+
+
  
  
  
